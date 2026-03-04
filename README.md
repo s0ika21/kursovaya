@@ -8,8 +8,13 @@
 
 Что бы установить нужно перейти в папку проекта и ввести следующие команды:
 
+linux:
 ```bash
 source venv/bin/activate
+```
+windows:
+```bash
+.\venv\Scripts\Activate.ps1
 ```
 
 Далее нужно запустить файл проекта:
